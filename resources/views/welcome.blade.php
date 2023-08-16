@@ -43,7 +43,7 @@
                 <table class="table table-striped table-hover">
                     <thead>
                         <th>ID</th>
-                        <th>DESCRIPCIONES</th>
+                        <th>DESCRIPCION</th>
                         <th>CATEGORIA</th>
 
 
